@@ -15,7 +15,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: TA
     i18n: company_b
   desc:
     detail: I worked at Company B ...
@@ -26,4 +26,18 @@
   job:
     detail: Full Stack Developer
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: RA
+    i18n: company_c
+  desc:
+    detail: I worked at Company B ...
+    i18n: company_c_desc
+  date:
+    detail: Jun. 2015
+    i18n: company_c_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_c_job
   icon: fa-plus-square
