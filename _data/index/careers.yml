@@ -18,7 +18,7 @@
     detail: Teaching Assistant
     i18n: company_b
   desc:
-    detail: "• Helped students during the lectures and labs\r\n"+
+    detail: "• Helped students during the lectures and labs\n"+
             "• Held help sessions to help student with assignments and exams\r\n"+ 
             "• Graded homework assignments, quizzes, and projects\r\n" +
             "• CSE465 : Comparative Programming Languages\r\n" +
