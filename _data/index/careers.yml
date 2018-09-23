@@ -18,13 +18,13 @@
     detail: Teaching Assistant
     i18n: company_b
   desc:
-    detail: • Helped students during the lectures and labs 
-            • Held help sessions to help student with assignments and exams 
-            • Graded homework assignments, quizzes, and projects 
-            • CSE465 ':'- Comparative Programming Languages 
-            • CSE381 ':'- Operating System 2 
-            • CSE385 ':'- Database System 
-            • BUS104 ':'- Computational Thinking
+    detail: "• Helped students during the lectures and labs\n 
+            • Held help sessions to help student with assignments and exams\n 
+            • Graded homework assignments, quizzes, and projects\n 
+            • CSE465 : Comparative Programming Languages\n 
+            • CSE381 : Operating System 2\n 
+            • CSE385 : Database System\n 
+            • BUS104 : Computational Thinking"
     i18n: company_b_desc
   date:
     detail: Jun. 2015
