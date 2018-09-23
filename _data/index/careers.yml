@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Unity Developer / Research Assistant, Miami University
+    detail: Unity Developer / Research Assistant
     i18n: company_a
   desc:
     detail: "I worked at Miami University as a Unity Developer & Research Assistant for a Virtual Reality Project."
@@ -10,12 +10,12 @@
     detail: May. 2018 - Present
     i18n: company_a_date
   job:
-    detail: Unity Developer / Research Assistant
+    detail: Miami University
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Teaching Assistant, Miami University
+    detail: Teaching Assistant
     i18n: company_b
   desc:
     detail: "• Helped students during the lectures and labs\r\n 
@@ -30,20 +30,20 @@
     detail: Feb. 2017 - Present
     i18n: company_b_date
   job:
-    detail: Teaching Assistant
+    detail: Miami University
     i18n: company_b_job
   icon: fa-plus-square
 
 - name:
-    detail: RA
+    detail: Research Assistant
     i18n: company_c
   desc:
-    detail: I worked at Company B ...
+    detail: TBD
     i18n: company_c_desc
   date:
     detail: Jun. 2015
     i18n: company_c_date
   job:
-    detail: Full Stack Developer
+    detail: Miami University
     i18n: company_c_job
   icon: fa-plus-square
