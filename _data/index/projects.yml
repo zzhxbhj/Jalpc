@@ -19,9 +19,9 @@
   repo: 
   img: /static/assets/img/landing/python.png
   desc: |
-  "Group Senior Capstone, a navigation App which can help students with disability and new students on Campus. "
-"• Refactored MySQL Database and added stored procedures to help developing navigation System."
-"• Developed the navigation System with others."
+        "Group Senior Capstone, a navigation App which can help students with disability and new students on Campus. "
+        "• Refactored MySQL Database and added stored procedures to help developing navigation System."
+        "• Developed the navigation System with others."
 
 - name: Google
   i18n: google
