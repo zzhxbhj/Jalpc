@@ -9,8 +9,8 @@
   desc: 
         This project is what I developed for Miami University MME Department.\n
         
-        • The application is able to delay the users’ visual feedback, scaling the users’ rotation and moving behavior in the VR world depending on the parameters set in the Main Menu.
-        • The application can also store the experiment’s data in text file for future analysis, the file’s name can be auto updated if the previous saving name ends with numbers.
+  l1:      • The application is able to delay the users’ visual feedback, scaling the users’ rotation and moving behavior in the VR world depending on the parameters set in the Main Menu.
+  l2:      • The application can also store the experiment’s data in text file for future analysis, the file’s name can be auto updated if the previous saving name ends with numbers.
         https://www.facebook.com/MiamiAlum/videos/vl.2222633637982346/492854074533438/?type=1
 
 - name: Accessibility Mapping
@@ -20,11 +20,13 @@
   img: /static/assets/img/landing/python.png
   desc: |
         Group Senior Capstone, a navigation App which can help students with disability and new students on Campus.\n
-        '\•' Refactored MySQL Database and added stored procedures to help developing navigation System.\n
-        '\•' Developed the navigation System with others.
+  l1:      '\•' Refactored MySQL Database and added stored procedures to help developing navigation System.\n
+  l2:      '\•' Developed the navigation System with others.
 
 - name: Google
   i18n: google
   url: https://google.com
   img: /static/assets/img/landing/google.png
   desc: This is another project.
+  l1:
+  l2:
