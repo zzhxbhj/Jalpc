@@ -7,6 +7,8 @@
   repo: 
   img: /static/assets/img/landing/jekyll.png
   desc: This project is what I developed for Miami University MME Department.
+  l1:
+  l2:
 
 - name: Accessibility Mapping
   i18n: accessMap
@@ -14,8 +16,8 @@
   repo: 
   img: /static/assets/img/landing/python.png
   desc: Group Senior Capstone, a navigation App which can help students with disability and new students on Campus.\n
-  l1:      '\•' Refactored MySQL Database and added stored procedures to help developing navigation System.\n
-  l2:      '\•' Developed the navigation System with others.
+  l1: '\•' Refactored MySQL Database and added stored procedures to help developing navigation System.\n
+  l2: '\•' Developed the navigation System with others.
 
 - name: Google
   i18n: google
