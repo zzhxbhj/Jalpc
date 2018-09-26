@@ -12,12 +12,15 @@
         "• The application can also store the experiment’s data in text file for future analysis, the file’s name can be auto updated if the previous saving name ends with numbers."
         https://www.facebook.com/MiamiAlum/videos/vl.2222633637982346/492854074533438/?type=1"
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: Accessibility Mapping
+  i18n: am
+  gh_user: 
+  repo: 
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: >
+  Group Senior Capstone, a navigation App which can help students with disability and new students on Campus. 
+"• Refactored MySQL Database and added stored procedures to help developing navigation System."
+"• Developed the navigation System with others."
 
 - name: Google
   i18n: google
