@@ -1,16 +1,16 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: mt
-  i18n: MotionTest
+- name: MotionTest
+  i18n: motionTest
   gh_user: 
   repo: 
   img: /static/assets/img/landing/jekyll.png
-  desc: "This project is what I developed for Miami University MME Department. 
+  desc: "This project is what I developed for Miami University MME Department. \n
         • The application is able to delay the users’ visual feedback, scaling the users’ rotation and moving
-behavior in the VR world depending on the parameters set in the Main Menu.
+behavior in the VR world depending on the parameters set in the Main Menu.\n
 • The application can also store the experiment’s data in text file for future analysis, the file’s name
-can be auto updated if the previous saving name ends with numbers."
+can be auto updated if the previous saving name ends with numbers.\n https://www.facebook.com/MiamiAlum/videos/vl.2222633637982346/492854074533438/?type=1"
 
 - name: Python
   i18n: cpython
