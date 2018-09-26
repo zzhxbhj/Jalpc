@@ -6,7 +6,7 @@
   gh_user: 
   repo: 
   img: /static/assets/img/landing/jekyll.png
-  desc: |
+  desc: 
         "This project is what I developed for Miami University MME Department.\n"
         
         "• The application is able to delay the users’ visual feedback, scaling the users’ rotation and moving behavior in the VR world depending on the parameters set in the Main Menu."
