@@ -8,6 +8,7 @@
   img: /static/assets/img/landing/jekyll.png
   desc: |
         "This project is what I developed for Miami University MME Department."
+        
         "• The application is able to delay the users’ visual feedback, scaling the users’ rotation and moving behavior in the VR world depending on the parameters set in the Main Menu."
         "• The application can also store the experiment’s data in text file for future analysis, the file’s name can be auto updated if the previous saving name ends with numbers."
         https://www.facebook.com/MiamiAlum/videos/vl.2222633637982346/492854074533438/?type=1"
@@ -18,7 +19,7 @@
   repo: 
   img: /static/assets/img/landing/python.png
   desc: >
-  Group Senior Capstone, a navigation App which can help students with disability and new students on Campus. 
+  "Group Senior Capstone, a navigation App which can help students with disability and new students on Campus. "
 "• Refactored MySQL Database and added stored procedures to help developing navigation System."
 "• Developed the navigation System with others."
 
