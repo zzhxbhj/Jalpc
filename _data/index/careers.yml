@@ -4,8 +4,10 @@
     detail: Unity Developer / Research Assistant
     i18n: company_a
   desc:
-    detail: "I worked at Miami University as a Unity Developer & Research Assistant for a Virtual Reality Project."
-    detail2: "2333"
+    detail:"Developed a Virtual Reality application in Unity 3D for Mechanical Engineering Department to experiment human balance problems. The project was interviewed by Miami University Alumni Association on the “Move in Miami 2018” Facebook Live."
+    detail2:"• Made the application be able to delay the users’ visual feedback, scaling the users’ rotation and moving behavior in the VR world depending on the parameters set in the Setting Menu."
+    detail3:"• Made the application be able to store the experiment’s data in text file for future analysis, the file’s name can be auto updated if the previous saving name ends with numbers."
+    detail4:"• Added and modified the UI for the application to satisfy the different experiments’ requirement."
     i18n: company_a_desc
   date:
     detail: May. 2018 - Present
